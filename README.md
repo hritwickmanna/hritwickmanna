@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hritwickmanna
 - 👀 I’m interested in mathematics, statistics and programming.
 - 🌱 I'm very familiar with the MERN stack.
-- 💞️ I’m looking for internships in the software development field
+- 💞️ I’m looking for internships in the software development field.
 - 📫 How to reach me - https://www.linkedin.com/in/hritwickmanna/
 
 <!---
