@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Civil+Engineering+Student+IITKGP;Full-Stack+Web+Developer;Data-Science+|+ML+|+Deep+Learning;&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">I am a fourth-year undergraduate student of the Department of Civil Engineering enrolled in its B.Tech. (Hons.) course at the Indian Institute of Technology, Kharagpur. I've dabbled in a number of technological areas, including Web Development (HTML, CSS, JavaScript, Node, React), App Development (Android Studio/React-Native), and Machine Learning (OpenCV, Tensorflow, Keras)..</h4>
+<h4 align="center">I am a fourth-year undergraduate student of the Department of Civil Engineering enrolled in its B.Tech. (Hons.) course at the Indian Institute of Technology, Kharagpur. I've dabbled in a number of technological areas, including Web Development (HTML, CSS, JavaScript, Node, React), App Development (Android Studio/React-Native), and Machine Learning (OpenCV, Tensorflow/Keras)</h4>
 <br>
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=Gitanjit&label=Profile%20views&color=0e75b6&style=plastic" alt="Gitanjit" /> </p> -->
 
