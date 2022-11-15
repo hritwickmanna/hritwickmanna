@@ -10,7 +10,7 @@
 
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Hritwick&theme=algolia" alt="Hritwick"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hritwickmanna&theme=algolia" alt="Hritwick"  /></p>
 
 ---
 ### Profile views counter
