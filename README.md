@@ -1,3 +1,4 @@
-<h1 align="center">Hello, I am Hritwick Manna</h1> ![hello](https://user-images.githubusercontent.com/69580700/201938205-cb5ddec3-5673-42ce-9a6c-d27dca6d230c.gif)
+<h1 align="center">Hello, I am Hritwick Manna ![hello](https://user-images.githubusercontent.com/69580700/201938729-fa8995c5-6dfa-449f-8442-ab929e2b1501.gif)
+</h1> 
 
 
