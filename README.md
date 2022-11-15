@@ -75,7 +75,7 @@
   </a>
   &emsp; 
   <a href="https://www.postman.com/" target="_blank"> 
-   <img alt="Postman" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
+   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   </a>		
 </p>
 
