@@ -1,1 +1,1 @@
-![image](https://user-images.githubusercontent.com/69580700/201933535-d1f0e26b-cbd7-42df-89e6-5ea9bca232f6.png)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
