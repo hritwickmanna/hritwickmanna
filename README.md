@@ -55,7 +55,7 @@
   </a> 
    &emsp;
   <a href="https://reactjs.org/" target="_blank"> 
-    <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+    <img alt="React.js" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white](https://reactjs.org/"/>
   </a>
 </p>
 
