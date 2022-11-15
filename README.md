@@ -63,6 +63,14 @@
   </a>	
 </p>
 
+### 👉 Backend Development
+<p align="left"> 
+  &emsp; 
+  <a href="https://nodejs.org/en/" target="_blank"> 
+   <img alt="Node.js" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white">
+  </a>   
+</p>
+
 ### 👉 Databases & Cloud Hosting
 <p align="left">
   &emsp;
@@ -139,13 +147,3 @@
  </div>
 
 <hr/>
-
-
-
-
-
-
-
-
-
-
