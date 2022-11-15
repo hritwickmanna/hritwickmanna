@@ -69,6 +69,14 @@
   <a href="https://nodejs.org/en/" target="_blank"> 
    <img alt="Node.js" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white">
   </a>   
+  &emsp; 
+  <a href="https://expressjs.com/" target="_blank"> 
+   <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
+  </a>
+  &emsp; 
+  <a href="https://www.postman.com/" target="_blank"> 
+   <img alt="Postman" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
+  </a>		
 </p>
 
 ### 👉 Databases & Cloud Hosting
