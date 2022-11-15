@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi , I'm Gitanjit Medhi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hello , I am Hritwick Manna <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Mathematics+And+Computing+Student+IITG;Full+Stack+Web+Developer;Ml%20|%20DS%20|%20AppDev%20Beginner;&center=true&width=500&height=50"></a>
 </p>
