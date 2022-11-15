@@ -117,7 +117,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/Gitanjit"><img alt="Gitanjit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Gitanjit&custom_title=Gitanjit%20Medhi's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/hritwickmanna"><img alt="Hritwick's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hritwickmanna&custom_title=Hritwick%20Manna's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
@@ -127,9 +127,9 @@
 ## 🙋‍♀️ Let's Connect
 <p align="center">
 <!--   <a href=""><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a> -->
-	<a href="mailto:gitanjit6@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/Gitanjit"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/gitanjit-medhi-334737196/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="mailto:hritwick.manna24@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/hritwickmanna"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/hritwickmanna/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
 
 # Below are my repositories:
