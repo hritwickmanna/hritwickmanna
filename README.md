@@ -55,7 +55,7 @@
   </a> 
    &emsp;
   <a href="https://reactjs.org/" target="_blank"> 
-    <img alt="React.js" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
+    <img alt="React.js" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square"/>
   </a>
 </p>
 
