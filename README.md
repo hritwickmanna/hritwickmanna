@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello , I am Hritwick Manna <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Civil+Engineering+Student+IITKGP;Full-Stack+Web+Developer;Data-Science+|+ML+|+Deep+Learning;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=B.Tech+(Hons.)+Student+IITKGP;Full-Stack+Web+Developer;Data-Science+|+ML+|+Deep+Learning;&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <h4 align="center">I am a fourth-year undergraduate student enrolled in its B.Tech. (Hons.) Course pursuing Micro Specialization in Artificial Intelligence and Machine Learning at the Indian Institute of Technology, Kharagpur. I've dabbled in a number of technological areas, including Web Development (HTML, CSS, JavaScript, Node, React), App Development (Android Studio/React-Native) and Machine Learning (OpenCV, Tensorflow/Keras).</h4>
