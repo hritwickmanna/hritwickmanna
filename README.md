@@ -10,7 +10,7 @@
 💡 My work spans across software engineering, full stack development, and machine learning systems from optimizing inference speed with TensorRT and designing event driven architectures, to building robust backend services and interactive web interfaces using React, Node.js, and Express.
 </h4>
 <h4>
-⚙️ I have a strong command over Data Structures, Algorithms, OOP and System Design, and I enjoy solving complex engineering challenges that demand both scalability and intelligence.	
+⚙️ I have a strong command over Data Structures, Algorithms, OOP and System Design and I enjoy solving complex engineering challenges that demand both scalability and intelligence.	
 </h4>
 <h4>
 🚀 Driven by curiosity and craftsmanship, I strive to build technology that’s both meaningful and scalable.</h4>
