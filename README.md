@@ -4,13 +4,17 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=B.Tech+(Hons.)+From+IIT+Kharagpur;Full-Stack+Web+Developer;Data-Science+|+ML+|+Deep+Learning;&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4>🎓 I'm Hritwick Manna, graduated from IIT Kharagpur with a B.Tech. (Hons.) and a Micro-Specialization in Artificial Intelligence and Applications. Previously worked with Walmart Global Tech India, where I focused on building scalable computer vision systems and integrating end-to-end pipelines that turn real-time data into actionable insights.
+<h4>🎓 I’m Hritwick Manna, a B.Tech. (Hons.) graduate from IIT Kharagpur with a Micro-Specialization in Artificial Intelligence and Applications. I’ve worked at Walmart Global Tech India, where I engineered scalable computer vision and real-time data systems, deploying pipelines that converted live RTSP streams into actionable business insights.
 </h4>
 <h4>	
-💡 I enjoy solving complex software and data challenges whether it's optimizing inference speed using TensorRT, deploying real-time RTSP-based detection pipelines, or curating large-scale datasets. My toolset includes Python, C++, SQL, JavaScript, and Shell Script, and I'm comfortable with technologies like PyTorch, MLflow, Docker, Kubernetes, and Google BigQuery.
+💡 My work spans across software engineering, full stack development, and machine learning systems from optimizing inference speed with TensorRT and designing event driven architectures, to building robust backend services and interactive web interfaces using React, Node.js, and Express.
 </h4>
 <h4>
-🚀 I'm deeply interested in Software Development, Machine Learning Engineering, and Data Systems. From developing YOLOv5-based detection tools to time-series forecasting models and mobile apps, I’m always seeking projects that push the boundaries of learning and impact.</h4>
+⚙️ I have a strong command over Data Structures, Algorithms, OOP and System Design, and I enjoy solving complex engineering challenges that demand both scalability and intelligence.	
+</h4>
+<h4>
+🚀 Driven by curiosity and craftsmanship, I strive to build technology that’s both meaningful and scalable.</h4>
+<h4>🌱 Outside of work, I love adventure travel, reading, and wellness, which I believe add balance and creativity to my professional life.</h4>
 <br>
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=Gitanjit&label=Profile%20views&color=0e75b6&style=plastic" alt="Gitanjit" /> </p> -->
 
