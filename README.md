@@ -19,8 +19,17 @@
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=Gitanjit&label=Profile%20views&color=0e75b6&style=plastic" alt="Gitanjit" /> </p> -->
 
 
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hritwickmanna&theme=algolia" alt="Hritwick"  /></p>
+## 💻 GitHub Profile Stats
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Hritwick's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hritwickmanna&show_icons=true&count_private=true&theme=algolia" height="192px" valign="middle" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hritwickmanna&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Hritwick Manna" height="192px" valign="middle" />
+</p>
+<p align="center">
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</p>
 
 ---
 
@@ -160,22 +169,6 @@
 </p>
 
 <br/>
-
-## 📊 Github Stats (Expand to View) 
-
-
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Hritwick's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hritwickmanna&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hritwickmanna&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Hritwick Manna" height="192px"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
 
 ---
 
