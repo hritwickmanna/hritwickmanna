@@ -4,17 +4,17 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=B.Tech+(Hons.)+From+IIT+Kharagpur;Full-Stack+Web+Developer;Data-Science+|+ML+|+Deep+Learning;&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4>🎓 I’m Hritwick Manna, a B.Tech. (Hons.) graduate from IIT Kharagpur with a Micro-Specialization in Artificial Intelligence and Applications. I’ve worked at Walmart Global Tech India, where I engineered scalable computer vision and real-time data systems, deploying pipelines that converted live RTSP streams into actionable business insights.
+<h4>👋 I’m Hritwick Manna, a Software Development Engineer with a strong focus on backend and systems engineering and a graduate of IIT Kharagpur ’23 with a Micro-Specialization in Artificial Intelligence & Applications.
 </h4>
 <h4>	
-💡 My work spans across software engineering, full stack development, and machine learning systems from optimizing inference speed with TensorRT and designing event driven architectures, to building robust backend services and interactive web interfaces using React, Node.js, and Express.
+💼 I previously worked at Walmart Global Tech, where I engineered scalable, production-grade systems for computer vision and real-time inference. My work involved optimizing deep-learning pipelines (ONNX → TensorRT), building low-latency RTSP streaming services and deploying reliable backend systems that converted video streams into actionable business insights at scale.
 </h4>
 <h4>
-⚙️ I have a strong command over Data Structures, Algorithms, OOP and System Design and I enjoy solving complex engineering challenges that demand both scalability and intelligence.	
+🚀 I’ve also worked in a fast-paced startup environment, building end-to-end backend and ML-powered systems from data pipelines and model serving to APIs that transform unstructured enterprise data into structured, machine-readable formats used by downstream workflows.	
 </h4>
 <h4>
-🚀 Driven by curiosity and craftsmanship, I strive to build technology that’s both meaningful and scalable.</h4>
-<h4>🌱 Outside of work, I love adventure travel, reading, and wellness, which I believe add balance and creativity to my professional life.</h4>
+⚙️ Moving across large-scale and startup environments strengthened my ability to own systems end-to-end, design for performance and reliability and ship features that survive real production constraints.</h4>
+<h4>🧠 My core strengths include Data Structures & Algorithms, OOP, Backend Development and System Design, with hands-on experience bridging ML components with robust software systems.</h4>
 <br>
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=Gitanjit&label=Profile%20views&color=0e75b6&style=plastic" alt="Gitanjit" /> </p> -->
 
